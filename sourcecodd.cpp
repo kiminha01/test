@@ -2,7 +2,7 @@
 
 #define WIDTH 640		// window's width
 #define HEIGHT 640		// window's height
-int alpha;
+
 OBJ cube;
 float angle = 0;
 
