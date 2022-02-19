@@ -5,6 +5,7 @@
 
 OBJ cube;
 float angle = 0;
+int k;
 
 void idle() {
 	angle += 0.1;
