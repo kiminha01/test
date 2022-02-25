@@ -3,9 +3,9 @@
 #define WIDTH 640		// window's width
 #define HEIGHT 640		// window's height
 
+
 OBJ cube;
 float angle = 0;
-int k;
 
 void idle() {
 	angle += 0.1;
